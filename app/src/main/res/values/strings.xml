@@ -1,0 +1,28 @@
+<resources>
+    <string name="archivoSharedPreferences">arShPr</string>
+    <string name="app_name">AppWebView</string>
+    <string name="cancel">Cancel</string>
+    <string name="clave1">claveShPref</string>
+    <string name="clave2">clavePref</string>
+    <string name="clave3">claveDePref</string>
+    <string name="datos">Introduce tus datos</string>
+    <string name="default_value">default</string>
+    <string name="dialog_title">Introduce tus datos</string>
+    <string name="getDefaultSharedPreferences">getDefaultSharedPreferences()</string>
+    <string name="getpreferences">getPreferences()</string>
+    <string name="getsharedpreferences">getSharedPreferences()</string>
+    <string name="leer1">leer archivo 1</string>
+    <string name="leer2">leer archivo 2</string>
+    <string name="leer3">leer archivo 3</string>
+    <string name="ok">ok</string>
+    <string name="password">Password</string>
+    <string name="saved_name"></string>
+    <string name="saved_pass"></string>
+    <string name="saved_user">¿Desea iniciar sesión con el usuario</string>
+    <string name="username">Username</string>
+    <string name="valor1">primer valor</string>
+    <string name="valor2">segundo valor</string>
+    <string name="valor3">tercer valor</string>
+    <string name="valorPredeterminado">valor predeterminado: no esta</string>
+
+</resources>

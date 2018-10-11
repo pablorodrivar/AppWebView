@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ActividadPreferencias">
+
+    <Button
+        android:id="@+id/btPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/getpreferences" />
+
+    <Button
+        android:id="@+id/btShPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/getsharedpreferences" />
+
+    <Button
+        android:id="@+id/btDeShPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/getDefaultSharedPreferences" />
+
+    <Button
+        android:id="@+id/btLeerPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/leer1" />
+
+    <Button
+        android:id="@+id/btLeerShPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/leer2" />
+
+    <Button
+        android:id="@+id/btLeerDeShaPref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/leer3" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+</LinearLayout>
